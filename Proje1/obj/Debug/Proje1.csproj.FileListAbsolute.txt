@@ -1,0 +1,32 @@
+C:\Users\Abdullah\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.AssemblyReference.cache
+C:\Users\Abdullah\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\source\repos\Proje1\Proje1\obj\Debug\Proje1.Form1.resources
+C:\Users\Abdullah\source\repos\Proje1\Proje1\obj\Debug\Proje1.Form2.resources
+C:\Users\Abdullah\source\repos\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\Abdullah\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\Abdullah\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\Abdullah\source\repos\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\Abdullah\source\repos\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\Abdullah\source\repos\Proje1\Proje1\obj\Debug\Proje1.Form.resources
+C:\Users\Abdullah\source\repos\Proje1\Proje1\obj\Debug\Proje1.Form3.resources
+C:\Users\Abdullah\source\repos\Proje1\Proje1\obj\Debug\Proje1.Form4.resources
+C:\Users\Abdullah\source\repos\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\Abdullah\source\repos\Proje1\Proje1\obj\Debug\Proje1.pdb
+C:\Users\Abdullah\source\repos\Proje1\Proje1\obj\Debug\Proje1.Form8.resources
+C:\Users\Abdullah\Desktop\Yeni klasör\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\Abdullah\Desktop\Yeni klasör\Proje1\bin\Debug\Proje1.exe
+C:\Users\Abdullah\Desktop\Yeni klasör\Proje1\bin\Debug\Proje1.pdb
+C:\Users\Abdullah\Desktop\Yeni klasör\Proje1\obj\Debug\Proje1.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\Yeni klasör\Proje1\obj\Debug\Proje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\Desktop\Yeni klasör\Proje1\obj\Debug\Proje1.Form.resources
+C:\Users\Abdullah\Desktop\Yeni klasör\Proje1\obj\Debug\Proje1.Form1.resources
+C:\Users\Abdullah\Desktop\Yeni klasör\Proje1\obj\Debug\Proje1.Form2.resources
+C:\Users\Abdullah\Desktop\Yeni klasör\Proje1\obj\Debug\Proje1.Form3.resources
+C:\Users\Abdullah\Desktop\Yeni klasör\Proje1\obj\Debug\Proje1.Form4.resources
+C:\Users\Abdullah\Desktop\Yeni klasör\Proje1\obj\Debug\Proje1.Form8.resources
+C:\Users\Abdullah\Desktop\Yeni klasör\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\Yeni klasör\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\Yeni klasör\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\Yeni klasör\Proje1\obj\Debug\Proje1.exe
+C:\Users\Abdullah\Desktop\Yeni klasör\Proje1\obj\Debug\Proje1.pdb

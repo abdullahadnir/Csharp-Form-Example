@@ -1,0 +1,22 @@
+ÜÇGEN Mİ ? : 1  23  3 
+ ÜÇGENDİR 
+ÜÇGEN Mİ ? : 1 1  1 
+  ÜÇGENDİR 
+ KARE Mİ ? :5  25  
+  KARE 
+ KARE Mİ ? :25  25  
+  KARE DEĞİL 
+TAŞ KAĞIT MAKAS OYUNU : Taş  Makas  
+ SONUÇ = YENDİ 
+TAŞ KAĞIT MAKAS OYUNU : Kağıt  Kağıt  
+ SONUÇ = YENEMEDİ 
+ALTDİZGİ Mİ ?  : top  dondurmatopu  
+ SONUÇ = ALTDİZGİ 
+ ALTDİZGİ Mİ ?  : top  ekmek  
+ SONUÇ = ALTDİZGİ DEĞİLDİR 
+ Ön ek veya art ek mi? :ak  akkoyun  
+ SONUÇ = ÖN EK 
+ Ön ek veya art ek mi? :koyun  akkoyun  
+ SONUÇ = ARKA EK 
+Ön ek veya art ek mi? : kuzu  akkoyun  
+ SONUÇ = HİÇBİRİ DEĞİL 
